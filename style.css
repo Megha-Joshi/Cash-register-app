@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Glory:wght@200;300&display=swap');
+
+body {
+	margin: 0px;
+	background-color: whitesmoke;
+	font-family: 'Glory', sans-serif;
+
+
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	width: 70vh;
+	margin: auto;
+	text-align: center;
+	/* border: 1px solid gray; */
+	background-color: #78247B;
+	color: whitesmoke;
+
+	border-radius: 7px;
+	font-weight: bold;
+	margin-top: 15px;
+}
+
+caption {
+	padding-bottom: 1rem;
+}
+
+input {
+
+	margin: 0.5rem 1rem;
+	padding: 0.5rem;
+	border-radius: 7px;
+	border: none;
+	font-size: large;
+}
+
+label {
+	padding: 1rem;
+	padding-bottom: 0.2rem;
+}
+
+button {
+
+	margin: 1rem 1rem;
+	padding: 0.5rem;
+	border: none;
+	border-radius: 7px;
+	background-color: #AA75A0;
+	font-weight: bold;
+
+
+}
+
+.cont {
+	padding: 0rem 1rem;
+}
+
+
+h1 {
+	text-align: center;
+}
+
+.sec {
+	padding: 5.6rem;
+}
+
+td {
+	padding: 5px;
+}
+
+th {
+	text-decoration: underline;
+}
+
+.no-of-notes {
+	color: white;
+
+}
+
+.footer {
+	background-color: #05473C;
+	margin-bottom: 0px;
+	text-align: center;
+	padding: 1rem;
+	color: #021f17;
+	border-radius: 7px;
+
+}
+
+.foot .logo {
+	padding: 5px;
+
+}
+
+.foot {
+	padding-bottom: 1rem;
+}
+
+#op {
+	padding: 1rem;
+	margin: 0.5rem;
+
+}
