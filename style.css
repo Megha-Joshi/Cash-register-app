@@ -2,8 +2,12 @@
 
 body {
 	margin: 0px;
-	background-color: whitesmoke;
 	font-family: 'Glory', sans-serif;
+	background-image: url("/images/cash_img.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
 
 
 }
@@ -80,7 +84,6 @@ th {
 }
 
 .footer {
-	background-color: #05473C;
 	margin-bottom: 0px;
 	text-align: center;
 	padding: 1rem;
@@ -96,6 +99,8 @@ th {
 
 .foot {
 	padding-bottom: 1rem;
+	background-color: #865388;
+	padding-top: 2rem;
 }
 
 #op {
